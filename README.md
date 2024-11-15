@@ -1,6 +1,2 @@
-# Manajemen-Hotel-OOP
+# Manajemen Perpustakaan OOP
 
-![alt text](https://github.com/AD16JR/Manajemen-Hotel-OOP/blob/main/Screenshot%202024-10-27%20140649.png)
-fguygilm
-
-TES TOD
